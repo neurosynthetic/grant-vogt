@@ -20,3 +20,4 @@ To access the latest Colab notebook, click on the bottommost link:
 | Week #6(b) | [Build an ARC Solver](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06b.ipynb) | |
 
 </div>
+
