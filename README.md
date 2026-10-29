@@ -17,7 +17,7 @@ To access the latest Colab notebook, click on the bottommost link:
 | Week #5(a) | [Finding and Cropping an Object](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week05a.ipynb) | [[link]](https://colab.research.google.com/drive/1c7h5VBE-q3ggntoiaNvKoevx6y0QuRyO) |
 | Week #5(b) | [Building Transformation Pipelines](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week05b.ipynb) | [[link]](https://colab.research.google.com/drive/1cy9UmWGH9pHP_tKvkm3NcxSJ2j_rVhYs) |
 | Week #6(a) | [Random Numbers and Random Grids](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06a.ipynb) | [[link]](https://colab.research.google.com/drive/1nkarbjOOHE9jJ0XjNc-wxNb1LCPVF6hZ) |
-| Week #6(b) | [Build an ARC Solver](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06b.ipynb) | |
+| Week #6(b) | [Build an ARC Solver](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06b.ipynb) | [[link]](https://colab.research.google.com/drive/1k0FwoWro0rVkB1A3Mn7AEyrUmAmZjfX8) |
 
 </div>
 
