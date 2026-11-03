@@ -2,7 +2,7 @@
 
 To access the original internship proposal, [click here](./PROPOSAL.md).
 
-To access the latest Colab notebook, click on the bottommost link:
+To access the latest lesson, click on the bottommost title. Weeks 1–6 open in Colab; Week 7 is a guide to read on GitHub while you work on your own computer.
 
 <div align="center">
 
@@ -18,6 +18,7 @@ To access the latest Colab notebook, click on the bottommost link:
 | Week #5(b) | [Building Transformation Pipelines](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week05b.ipynb) | [[link]](https://colab.research.google.com/drive/1cy9UmWGH9pHP_tKvkm3NcxSJ2j_rVhYs) |
 | Week #6(a) | [Random Numbers and Random Grids](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06a.ipynb) | [[link]](https://colab.research.google.com/drive/1nkarbjOOHE9jJ0XjNc-wxNb1LCPVF6hZ) |
 | Week #6(b) | [Build an ARC Solver](https://colab.research.google.com/github/neurosynthetic/grant-vogt/blob/main/notebooks/week06b.ipynb) | [[link]](https://colab.research.google.com/drive/1k0FwoWro0rVkB1A3Mn7AEyrUmAmZjfX8) |
+| Week #7 | [Your Project Has a History: A First Look at Git](./lessons/week07.md) | — |
 
 </div>
 
