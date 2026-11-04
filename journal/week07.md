@@ -41,3 +41,19 @@
 - I am editing this on computer B.(MAC)
 - One thing that surpirsed me about git: how you have to type git in front of everything. I feel like the learning curve is shaped like a log graph. hard to start but once grasp it, it doesnt get much harder.
 
+--- --- --- --- ---
+1.What is the difference between Git and GitHub?
+-  git is the codeing platform on the localized device, where github is the online memory where data/code can be transfered between computers.
+2. Why are saving, staging, committing, and pushing separate steps?
+- **saving** is on your computer
+- **staging** chooses which changes you want to include
+- **committing** record those changes in git
+- ** pushing** uploads commits to github
+3. What can you do without an internet connection after cloning?
+- you can work on your code on your local device. Once you recconnect with internet you can push to your repository(repo).
+4. Why can a clean working tree still contain a commit GitHub has not received?
+- clean work tree means all changes have been commited locally. however you havent pushed them.
+5. if you push from B, what must A do to receive that work?
+-  must you **git pull** to download the new commits fro github and update its local files.
+6. How did commit messages help you find a particular change in your journal's history?
+- set version of your dock that you can find with that commit.
