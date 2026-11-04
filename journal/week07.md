@@ -48,7 +48,7 @@
 - **saving** is on your computer
 - **staging** chooses which changes you want to include
 - **committing** record those changes in git
-- ** pushing** uploads commits to github
+- **pushing** uploads commits to github
 3. What can you do without an internet connection after cloning?
 - you can work on your code on your local device. Once you recconnect with internet you can push to your repository(repo).
 4. Why can a clean working tree still contain a commit GitHub has not received?
