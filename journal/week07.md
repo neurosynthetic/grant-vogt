@@ -26,9 +26,6 @@
 - I dont think it  will be in github yet b/c within the terminal the file is untracked, so how will get hub know?
 
 
-
-
-
 ## How I would check my new transformation
 - one extra input grid:
 - [1, 1, 1, 0, 5]
@@ -39,4 +36,8 @@
 - [3, 7, 2, 1, 0]
 - [5, 3, 2, 0, 1]
 - What this example checks that my first example did not: It checks that my transformatin works on a larger grid in both x and y diementions as well as more #s, such as 0 and 7.
+
+##A visit from my second computer
+I am editing this on computer B.(MAC)
+One thing that surpirsed me about git: how you have to type git in front of everything. I feel like the learning curve is shaped like a log graph. hard to start but once grasp it, it doesnt get much harder.
 
